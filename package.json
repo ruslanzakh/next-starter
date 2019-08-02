@@ -1,0 +1,42 @@
+{
+  "name": "next-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-stylus": "^1.0.1",
+    "next": "^9.0.3",
+    "next-images": "^1.1.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-markdown": "^4.1.0",
+    "react-redux": "^7.1.0",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^4.3.2",
+    "styled-normalize": "^8.0.6",
+    "stylus": "^0.54.5"
+  },
+  "devDependencies": {
+    "@svgr/webpack": "^4.3.2",
+    "@types/next": "^7.0.9",
+    "@types/node": "^12.6.9",
+    "@types/react": "^16.8.24",
+    "@types/react-dom": "^16.8.5",
+    "@types/react-redux": "^7.1.1",
+    "@types/styled-components": "^4.1.18",
+    "@zeit/next-css": "^1.0.1",
+    "install": "^0.13.0",
+    "npm": "^6.10.2",
+    "typescript": "^3.5.3"
+  }
+}
